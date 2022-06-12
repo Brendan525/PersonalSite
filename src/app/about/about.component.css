@@ -12,58 +12,53 @@
     padding-right: 20%;
   }
   
-  .fa-xbox {
-    color: green;
-    font-size: 60px;
-    margin-left: 10px;
-    animation: spin-animation 3s infinite;
-    animation-timing-function: linear;
-    display: inline-block;
-  }
-  
-  .fa-playstation {    
-    color: black;
-    font-size: 60px;
-    margin-left: 10px;
-    animation: spin-animation 3s infinite;
-    animation-timing-function: linear;
-    display: inline-block;
-  }
-  
   .fa-html5 {
     color: orange;
     font-size: 60px;
-    margin-left: 10px;
+    margin-left: 20px;
     animation: spin-animation 3s infinite;
     animation-timing-function: linear;
-    display: inline-block;
   }
   
   .fa-css3-alt {
     color: blue;
     font-size: 60px;
-    margin-left: 10px;
+    margin-left: 20px;
     animation: spin-animation 3s infinite;
     animation-timing-function: linear;
-    display: inline-block;
+  }
+
+  .fa-js{   
+    color: #F0DB4F;
+    font-size: 60px;
+    margin-left: 20px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
   }
   
   .fa-angular {
     color: red;
     font-size: 60px;
-    margin-left: 10px;
+    margin-left: 20px;
     animation: spin-animation 3s infinite;
     animation-timing-function: linear;
-    display: inline-block;
+  }
+
+  .fa-java {
+    color: #B07219;
+    font-size: 60px;
+    margin-left: 20px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
   }
   
   .fa-python {
     color: red;
     font-size: 60px;
-    margin-left: 10px;
+    margin-left: 20px;
     animation: spin-animation 3s infinite;
     animation-timing-function: linear;
-    display: inline-block;
+    
   }
   
   @keyframes spin-animation {
