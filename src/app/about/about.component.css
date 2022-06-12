@@ -58,7 +58,6 @@
     margin-left: 20px;
     animation: spin-animation 3s infinite;
     animation-timing-function: linear;
-    
   }
   
   @keyframes spin-animation {
