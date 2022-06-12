@@ -1,0 +1,78 @@
+#About {
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sm {   
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  
+  .fa-xbox {
+    color: green;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  .fa-playstation {    
+    color: black;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  .fa-html5 {
+    color: orange;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  .fa-css3-alt {
+    color: blue;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  .fa-angular {
+    color: red;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  .fa-python {
+    color: red;
+    font-size: 60px;
+    margin-left: 10px;
+    animation: spin-animation 3s infinite;
+    animation-timing-function: linear;
+    display: inline-block;
+  }
+  
+  @keyframes spin-animation {
+      0% {
+          transform: rotate(0deg);
+      }
+  
+      100% {
+          transform: rotate(360deg);
+      }
+  }
+  
