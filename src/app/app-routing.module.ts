@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { ResponsiveComponent } from './responsive/responsive.component';
 import { BlogComponent } from './blog/blog.component';
+import { TestComponent } from './test/test.component';
 
 
 const routes: Routes = [
@@ -17,6 +18,7 @@ const routes: Routes = [
   { path: 'responsive', component: ResponsiveComponent },
   { path: 'form', component: FormComponent },
   { path: 'blog', component: BlogComponent },
+  { path: 'test', component: TestComponent }
 
 ];
 
